@@ -1,6 +1,11 @@
 Blog menggunakan PHP dan MySQL
 =========
 
+Untuk membaca lebih detail mengenai isi dari source code yang ada di repository ini silahkan buka
+
+```sh
+http://belajarngoding.com/tutorial-membuat-blog-dengan-php-dan-mysql/
+```
 
 Contoh sederhana dari pembuatan blog menggunakan PHP dan MySQL. Anda harus membuat database dengan nama "blog" kemudian membuat sebuah membuat sebuah tabel post untuk menampung data tulisan.
 
